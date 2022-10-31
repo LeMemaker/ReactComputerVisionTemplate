@@ -4,7 +4,7 @@ import * as tf from "@tensorflow/tfjs";
 // 1. TODO - Import required model here
 // e.g. import * as tfmodel from "@tensorflow-models/tfmodel";
 
-import * as cocossd from "@tensorflow-models/coco-ssd";
+import * as cocossd from "@tensorflow-models/saved_model";
 
 import Webcam from "react-webcam";
 import "./App.css";
